@@ -1,9 +1,9 @@
-import Unicafe from "./unicafe/index.js";
+import Anecdote from "./anecdote/index";
 
 const App = () => {
   return (
     <div>
-      <Unicafe />
+      <Anecdote />
     </div>
   );
 };

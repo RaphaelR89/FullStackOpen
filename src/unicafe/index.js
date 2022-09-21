@@ -11,7 +11,7 @@ const Feedback = ({ title }) => {
   );
 };
 
-const Statistics = ({ title, value, text }) => {
+const Statistics = ({ title}) => {
   return (
     <div>
       <h1>{title}</h1>
